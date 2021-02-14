@@ -1,3 +1,5 @@
-My README for @github
-
-Hello World
+- 👋 Hi, I’m Stephen, more commonly known as SWM (swim) and @swmcc on [various](https://links.swm.cc) guises on the interwebs.
+- 💞️ I love my 🐶 Maggie, my 🐱 Kitty and 👨‍🌾✂️🌳 . I ❤️ and 💔 🏌️‍♂️ at the same time.
+- 🏠 My actual [home page](https://swm.cc) on the interwebs.
+- 🏗 I’m currently [building](https://changelog.swm.cc) lots of things. You can see the interesting ones in my [project](https://swm.cc/projects) page.
+- 💼 You can see what I intend to do and work on by going to my [project](https://github.com/users/swmcc/projects/6) page.
