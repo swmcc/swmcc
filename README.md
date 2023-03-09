@@ -7,4 +7,5 @@
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new site... and stuffs...](https://swm.cc/articles/new-site)
 <!-- BLOG-POST-LIST:END -->
