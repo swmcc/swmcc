@@ -4,7 +4,7 @@
 - 🏗 I’m currently [building](https://changelog.swm.cc) lots of things. You can see the interesting ones in my [project](https://swm.cc/projects) page.
 - 💼 You can see what I intend to do and work on by going to my [project](https://github.com/users/swmcc/projects/6) page.
 
-## Latest Posts
+## 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [A new site... and stuffs...](https://swm.cc/articles/new-site)
