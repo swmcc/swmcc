@@ -7,5 +7,6 @@
 ## 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaining Momentum](https://swm.cc/articles/gaining-momentum)
 - [A new site... and stuffs...](https://swm.cc/articles/new-site)
 <!-- BLOG-POST-LIST:END -->
