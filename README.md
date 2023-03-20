@@ -7,6 +7,7 @@
 ## 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Event-Driven Development on AWS: Node.js, Python, and CloudFormation](https://swm.cc/articles/event-driven-architecture)
 - [Gaining Momentum](https://swm.cc/articles/gaining-momentum)
 - [A new site... and stuffs...](https://swm.cc/articles/new-site)
 <!-- BLOG-POST-LIST:END -->
