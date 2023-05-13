@@ -7,6 +7,7 @@
 ## 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Glimpse Into My Recent Flurry of Activity](https://swm.cc/articles/perfect_is_the_enemy_of_good)
 - [Lost Momentum: Overcoming Physical and Emotional Obstacles](https://swm.cc/articles/losing-momentum)
 - [Event-Driven Development on AWS: Node.js, Python, and CloudFormation](https://swm.cc/articles/event-driven-architecture)
 - [Gaining Momentum](https://swm.cc/articles/gaining-momentum)
