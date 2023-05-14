@@ -4,7 +4,7 @@
 - 🏗 I’m currently [building](https://changelog.swm.cc) lots of things. You can see the interesting ones in my [project](https://swm.cc/projects) page.
 - 💼 You can see what I intend to do and work on by going to my [GitHub Project](https://github.com/users/swmcc/projects/6).
 
-## 📕 Latest Posts
+## 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [A Glimpse Into My Recent Flurry of Activity](https://swm.cc/articles/perfect_is_the_enemy_of_good)
