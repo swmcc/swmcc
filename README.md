@@ -7,9 +7,9 @@
 ## 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [If it&#39;s not bad, it&#39;s good: A three week expirement](https://swm.cc/articles/if_its_not_bad_its_good)
 - [A Glimpse Into My Recent Flurry of Activity](https://swm.cc/articles/perfect_is_the_enemy_of_good)
 - [Lost Momentum: Overcoming Physical and Emotional Obstacles](https://swm.cc/articles/losing-momentum)
 - [Event-Driven Development on AWS: Node.js, Python, and CloudFormation](https://swm.cc/articles/event-driven-architecture)
 - [Gaining Momentum](https://swm.cc/articles/gaining-momentum)
-- [A new site... and stuffs...](https://swm.cc/articles/new-site)
 <!-- BLOG-POST-LIST:END -->
