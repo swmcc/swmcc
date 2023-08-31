@@ -7,9 +7,9 @@
 ## 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Behind My &#39;Current&#39; Page: Owning My Data and Building in Public](https://swm.cc/articles/project-current)
 - [Continual Learning with Next.js: Embracing New Technologies](https://swm.cc/articles/continual-learning)
 - [If it&#39;s not bad, it&#39;s good: A three week expirement](https://swm.cc/articles/if_its_not_bad_its_good)
 - [A Glimpse Into My Recent Flurry of Activity](https://swm.cc/articles/perfect_is_the_enemy_of_good)
 - [Lost Momentum: Overcoming Physical and Emotional Obstacles](https://swm.cc/articles/losing-momentum)
-- [Event-Driven Development on AWS: Node.js, Python, and CloudFormation](https://swm.cc/articles/event-driven-architecture)
 <!-- BLOG-POST-LIST:END -->
