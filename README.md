@@ -7,9 +7,9 @@
 ## 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review: &quot;Will It Make the Boat Go Faster?&quot;](https://swm.cc/articles/will-it-make-the-boat-go-faster)
 - [Behind My &#39;Current&#39; Page: Owning My Data and Building in Public](https://swm.cc/articles/project-current)
 - [Continual Learning with Next.js: Embracing New Technologies](https://swm.cc/articles/continual-learning)
 - [If it&#39;s not bad, it&#39;s good: A three week expirement](https://swm.cc/articles/if_its_not_bad_its_good)
 - [A Glimpse Into My Recent Flurry of Activity](https://swm.cc/articles/perfect_is_the_enemy_of_good)
-- [Lost Momentum: Overcoming Physical and Emotional Obstacles](https://swm.cc/articles/losing-momentum)
 <!-- BLOG-POST-LIST:END -->
