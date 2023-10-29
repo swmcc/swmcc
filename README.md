@@ -7,9 +7,9 @@
 ## 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The long road back from burnout](https://swm.cc/articles/burnout)
 - [Juggling Multiple Projects: The Art of Balancing Time and Passion](https://swm.cc/articles/balancing-projects)
 - [Book Review: &quot;How to Work with &lpar;almost&rpar; Anyone.&quot;](https://swm.cc/articles/how-to-work-with-anyone)
 - [Book Review: &quot;Will It Make the Boat Go Faster?&quot;](https://swm.cc/articles/will-it-make-the-boat-go-faster)
 - [Behind My &#39;Current&#39; Page: Owning My Data and Building in Public](https://swm.cc/articles/project-current)
-- [Continual Learning with Next.js: Embracing New Technologies](https://swm.cc/articles/continual-learning)
 <!-- BLOG-POST-LIST:END -->
