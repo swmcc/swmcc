@@ -2,7 +2,6 @@
 - 💞️ I love my 🐶 Maggie and 👨‍🌾✂️🌳 . I ❤️ and 💔 🏌️‍♂️ at the same time.
 - 🏠 My actual [home page](https://swm.cc) on the interwebs.
 - 🏗 I’m currently building lots of things. Some public, some not.
-- 💼 You can see what I intend to do and work on by going to my [GitHub Project](https://github.com/users/swmcc/projects/6).
 
 ## 📕 Latest Articles
 
